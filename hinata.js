@@ -1700,7 +1700,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             	
   *Welcome To Bot Whatsapp*
   
- [ ✔︎Owner:YahyaGanzz ]
+ [ ✔︎Owner :Alfa ]
  [ ✔︎RunVia:Heroku ]
  [ ✔︎Status:Online ]
  [ ✔︎TipeSc:MD ]
@@ -1708,7 +1708,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
   
   *_Hi @${m.sender.split('@')[0]} 👋_*
 
-*🍟 List Menu : ${global.botname}*
+*📌 List Menu : ${global.botname}*
 
  *Bot Info*
  ✔︎ ${prefix}ping
@@ -1819,6 +1819,15 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
  ✔︎ ${prefix}setppbot [image]
  ✔︎ ${prefix}setexif
  ✔︎ ${prefix}anticall [on/off]
+ 
+ *Store Menu*
+ ✔︎ TikTok 1k View Harga = 10rb💵
+ ✔︎ Instagram 20 followers Harga = 5rb💵
+ ✔︎ Via : Gopay , Ovo, Pulsa, Dana
+ ✔︎ Info Selanjutnya
+ ✔︎ ${prefix}owner
+
+
 
  *Thanks To*
  ✔︎ DikaArdnt
